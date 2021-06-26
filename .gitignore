@@ -1,10 +1,7 @@
 /node_modules
 /to fo.txt
-/controllers/paymentController.js
 /controllers/sessionController.js
 /models/notifications.js
-/models/payments.js
 /models/sessions.js
-/routes/payment.js
 /routes/session.js
 /tests

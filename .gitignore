@@ -2,6 +2,5 @@
 /to fo.txt
 /controllers/sessionController.js
 /models/notifications.js
-/models/sessions.js
 /routes/session.js
 /tests

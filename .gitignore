@@ -1,6 +1,5 @@
 /node_modules
 /to fo.txt
-/controllers/sessionController.js
 /models/notifications.js
 /routes/session.js
 /tests
